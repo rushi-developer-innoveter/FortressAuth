@@ -19,6 +19,11 @@ This project focuses on building real security logic instead of toy examples.
 - JSON-based user storage
 - hashlib for password security
 
-## How to Run
+## Purpose
 
-1. Clone the repository
+This project was built to gain practical experience in:
+- Cybersecurity fundamentals
+- Authentication systems
+- Desktop software development with Python
+
+More security-focused systems will be added in future versions.
